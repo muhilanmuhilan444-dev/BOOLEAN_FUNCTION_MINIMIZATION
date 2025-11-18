@@ -17,6 +17,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Theory**
 
 **Logic Diagram**
+![WhatsApp Image 2025-11-18 at 11 07 04_971a81eb](https://github.com/user-attachments/assets/8a2a9423-737d-4a2a-8bee-489baba2c3de)
 
 **Procedure**
 
@@ -52,8 +53,6 @@ endmodule
 
 
 **Output:**
-<img width="1151" height="585" alt="Screenshot 2025-11-12 220934" src="https://github.com/user-attachments/assets/9c97abc5-7d61-450f-b02c-36cc657e2e6b" />
-
 
 **RTL**
 <img width="1917" height="645" alt="Screenshot 2025-11-12 215640" src="https://github.com/user-attachments/assets/7865a1a0-436e-41c6-9500-f7c37192c8df" />
